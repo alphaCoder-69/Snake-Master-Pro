@@ -1,5 +1,5 @@
 # Snake-Master-Pro
 
-This repository contains files of a simple snake game made using html and java-script only..
+This repository contains files of a simple snake game made using Html 5, Java-script and some CSS 3..........
 
 Enjoy....
